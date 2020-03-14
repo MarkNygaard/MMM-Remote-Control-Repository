@@ -9,7 +9,7 @@ const NodeHelper = require("node_helper")
 const path = require("path")
 const fs = require("fs")
 const https = require("https")
-const repository = "https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules"
+const repository = "https://github.com/MarkNygaard/iHomeMirror-Turnkey/wiki"
 const moduleJson = "modules.json"
 
 module.exports = NodeHelper.create({
